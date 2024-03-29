@@ -1,6 +1,8 @@
-package org.example;
+package org.example.shapshot;
 
-public class MyStringBuildSnapshot implements ISnapshot{
+import org.example.shapshot.ISnapshot;
+
+public class MyStringBuildSnapshot implements ISnapshot {
 
     private char [] value;
 

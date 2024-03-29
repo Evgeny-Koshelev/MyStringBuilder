@@ -1,5 +1,8 @@
 package org.example;
 
+import org.example.shapshot.ISnapshot;
+import org.example.shapshot.MyStringBuildSnapshot;
+
 import java.util.Arrays;
 
 public class MyStringBuilder {

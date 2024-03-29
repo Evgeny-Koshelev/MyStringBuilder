@@ -1,4 +1,7 @@
-package org.example;
+package org.example.shapshot;
+
+import org.example.MyStringBuilder;
+import org.example.shapshot.ISnapshot;
 
 import java.util.Stack;
 
